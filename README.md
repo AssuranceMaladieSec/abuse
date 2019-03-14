@@ -1,7 +1,7 @@
 ![logo](https://avatars0.githubusercontent.com/u/35814749?s=200&v=4)
 
 # Abuse contact:
-*EN version*. This repository gives all informations required to be able to exchange with the Abuse security team of the Assurance Maladie. Its purpose is to received and investigate potential security and privacy vulnerabilites reports.
+*EN version*. This repository gives all informations required to be able to exchange with the Abuse security team of the Assurance Maladie. Its purpose is to received and investigate potential security and privacy vulnerabilites reports on services and websites of the Assurance Maladie.
 
 **Contact:**
 * email: [abuse@assurance-maladie.fr](mailto:abuse@assurance-maladie.fr)
@@ -10,7 +10,7 @@
   * GPG fingerprint: `0D2C7D6EA9D29669222115DB483A86602CA63C52`
 
 # Contact de l'équipe Abuse :
-*Version française*. Vous trouverez ici toutes les informations nécessaires pour contacter l'équipe Abuse de l'Assurance Maladie. Son rôle est de recevoir et d'instruire les signalements d'incidents de sécurité ou de vie privée potentiels.
+*Version française*. Vous trouverez ici toutes les informations nécessaires pour contacter l'équipe Abuse de l'Assurance Maladie. Son rôle est de recevoir et d'instruire les signalements d'incidents de sécurité ou de vie privée potentiels sur les services et sites web de l'Assurance Maladie.
 
 **Contact :**
 * email: [abuse@assurance-maladie.fr](mailto:abuse@assurance-maladie.fr)
