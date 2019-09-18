@@ -3,7 +3,7 @@
 # Abuse contact:
 *EN version*. This repository gives all informations required to be able to exchange with the Abuse security team of the [Assurance Maladie](https://www.ameli.fr/). Its purpose is to received and investigate potential security and privacy vulnerabilites reports on services and websites of the Assurance Maladie.
 
-**Web services and sites scope:** `*.ameli.fr`, `*.dmp.fr`, `*.assurance-maladie.fr`.
+**Services and web sites scope:** `*.ameli.fr`, `*.dmp.fr`, `*.assurance-maladie.fr`.
 
 **Contact:**
 * email: [abuse@assurance-maladie.fr](mailto:abuse@assurance-maladie.fr)
