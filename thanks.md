@@ -1,0 +1,16 @@
+![logo](https://avatars0.githubusercontent.com/u/35814749?s=200&v=4)
+
+## Merci !
+L'Assurance Maladie remercie toutes les personnes nous ayant fait des révélations responsables :
+
+- 12/2019 : Jean Marc Manach
+
+**L'alimentation de cette liste a débuté en décembre 2019.**
+
+## Thanks!
+Assurance Maladie wants to thank here all the reporters for their responsible disclosure:
+
+- 12/2019: Jean Marc Manach 
+
+**This list is curated since december, 2019.**
+
