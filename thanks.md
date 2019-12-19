@@ -13,4 +13,3 @@ Assurance Maladie wants to thank here all the reporters for their responsible di
 - 12/2019: Jean Marc Manach 
 
 **This list is curated since december, 2019.**
-
