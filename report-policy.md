@@ -20,7 +20,8 @@ Si vous trouvez (ou suspectez d'avoir découvert) une vulnérabilité sécurité
 **Périmètre des services couverts par cette politique de signalement :** 
 - `*.ameli.fr`,
 - `*.dmp.fr`,
-- `*.assurance-maladie.fr`
+- `*.assurance-maladie.fr`,
+-  `*.cnamts.fr`
 - et tout autre service en lien avec l'Assurance Maladie.
 
 **Crédits :** [Merci !](https://github.com/AssuranceMaladieSec/abuse/blob/master/thanks.md)
@@ -45,7 +46,8 @@ If you have found (or suspect the existence of) a privacy or security vulnerabil
 **Scope of the services covered by this reporting policy:** 
 - `*.ameli.fr`, 
 - `*.dmp.fr`, 
-- `*.assurance-maladie.fr` 
+- `*.assurance-maladie.fr`,
+-  `*.cnamts.fr`
 - and any other service related to French Assurance Maladie organization.
 
 **Acknowledgments:** [thanks!](https://github.com/AssuranceMaladieSec/abuse/blob/master/thanks.md)
