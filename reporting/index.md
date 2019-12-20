@@ -24,7 +24,7 @@ Si vous trouvez (ou suspectez d'avoir découvert) une vulnérabilité sécurité
 -  `*.cnamts.fr`
 - et tout autre service en lien avec l'Assurance Maladie.
 
-**> Crédits :** [Merci !](/abuse/thanks/)
+**> Crédits :** [Merci à toutes les personnes](/abuse/thanks/) ayant fait des signalements responsables.
 
 ## [EN] Vulnerability reporting policy 
 
@@ -50,4 +50,4 @@ If you have found (or suspect the existence of) a privacy or security vulnerabil
 -  `*.cnamts.fr`
 - and any other service related to French Assurance Maladie organization.
 
-**> Acknowledgments:** [thanks!](/abuse/thanks/)
+**> Acknowledgments:** [thank to all reporters](/abuse/thanks/) for their responsible disclosures.
