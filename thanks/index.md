@@ -1,5 +1,3 @@
-![logo](https://avatars0.githubusercontent.com/u/35814749?s=200&v=4)
-
 ## [FR] Merci
 L'Assurance Maladie tient à remercier ici toutes les personnes nous ayant fait des signalements responsables :
 

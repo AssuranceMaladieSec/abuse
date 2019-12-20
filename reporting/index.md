@@ -1,5 +1,3 @@
-![logo](https://avatars0.githubusercontent.com/u/35814749?s=200&v=4)
-
 ## [FR] Politique de signalement de vulnérabilités
 
 **> Comment signaler une vulnérabilité :** 

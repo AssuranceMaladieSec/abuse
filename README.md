@@ -1,5 +1,3 @@
-![logo](https://avatars0.githubusercontent.com/u/35814749?s=200&v=4)
-
 # [FR] Contact de l'équipe Abuse :
 Vous trouverez ici toutes les informations nécessaires pour contacter l'équipe Abuse de l'[Assurance Maladie](https://www.ameli.fr/). Son rôle est de recevoir et d'instruire les signalements d'incidents de sécurité ou de vie privée potentiels sur les services et sites web de l'Assurance Maladie.
 
