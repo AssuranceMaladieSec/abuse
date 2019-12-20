@@ -3,7 +3,7 @@
 # Contact de l'équipe Abuse :
 **Version française**. Vous trouverez ici toutes les informations nécessaires pour contacter l'équipe Abuse de l'[Assurance Maladie](https://www.ameli.fr/). Son rôle est de recevoir et d'instruire les signalements d'incidents de sécurité ou de vie privée potentiels sur les services et sites web de l'Assurance Maladie.
 
-**Politique de signalement de vulnérabilités :** [reporting policy](/reporting/).
+**Politique de signalement de vulnérabilités :** [reporting policy](/abuse/reporting/).
 
 **Contact :**
 * email: [abuse@assurance-maladie.fr](mailto:abuse@assurance-maladie.fr)
@@ -14,7 +14,7 @@
 # Abuse contact:
 *EN version*. This repository gives all informations required to be able to exchange with the Abuse security team of the [Assurance Maladie](https://www.ameli.fr/). Its purpose is to received and investigate potential security and privacy vulnerabilites reports on services and websites of the Assurance Maladie.
 
-**Vulnerability Reporting Policy:** [reporting policy](https://github.com/AssuranceMaladieSec/abuse/blob/master/report-policy.md).
+**Vulnerability Reporting Policy:** [reporting policy](/abuse/reporting/).
 
 **Contact:**
 * email: [abuse@assurance-maladie.fr](mailto:abuse@assurance-maladie.fr)

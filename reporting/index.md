@@ -24,7 +24,7 @@ Si vous trouvez (ou suspectez d'avoir découvert) une vulnérabilité sécurité
 -  `*.cnamts.fr`
 - et tout autre service en lien avec l'Assurance Maladie.
 
-**Crédits :** [Merci !](https://github.com/AssuranceMaladieSec/abuse/blob/master/thanks.md)
+**Crédits :** [Merci !](/abuse/thanks/)
 
 ## Privacy and security vulnerability reporting policy for Assurance Maladie organization
 
@@ -50,4 +50,4 @@ If you have found (or suspect the existence of) a privacy or security vulnerabil
 -  `*.cnamts.fr`
 - and any other service related to French Assurance Maladie organization.
 
-**Acknowledgments:** [thanks!](https://github.com/AssuranceMaladieSec/abuse/blob/master/thanks.md)
+**Acknowledgments:** [thanks!](/abuse/thanks/)
