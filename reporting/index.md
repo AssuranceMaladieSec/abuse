@@ -1,3 +1,7 @@
+---
+title: "Politique de signalement de vulnérabilités - Reporting Policy"
+---
+
 ## [FR] Politique de signalement de vulnérabilités
 
 **> Comment signaler une vulnérabilité :** 
