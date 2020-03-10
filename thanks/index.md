@@ -1,3 +1,7 @@
+---
+title: "Merci - Thanks"
+---
+
 ## [FR] Merci
 L'Assurance Maladie tient à remercier ici toutes les personnes nous ayant fait des signalements responsables :
 
