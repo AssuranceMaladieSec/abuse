@@ -1,5 +1,5 @@
 ---
-title: "Politique de signalement de vulnérabilités - Reporting Policy"
+title: "Politique de signalement de vulnerabilites - Reporting Policy"
 ---
 
 ## [FR] Politique de signalement de vulnérabilités
