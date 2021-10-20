@@ -26,6 +26,15 @@ Si vous trouvez (ou suspectez d'avoir découvert) une vulnérabilité sécurité
 -  `*.cnamts.fr`
 - et tout autre service en lien avec l'Assurance Maladie.
 
+**> Seront considérés comme étant hors périmètre :** 
+- Clickjacking sur des pages sans fonctionnalités sensibles ou sans scénario,
+- Cross-Site Request Forgery (CSRF) sur des formulaires non authentifiés ou non sensibles,
+- Injection CSV sans scénario réel,
+- Spoofing de contenu et injection de texte ne démontrant pas de vecteur d'attaque/ne permettant pas la modification de HTML/CSS,
+- Manquements aux bonnes pratiques de sécurité concernant les mails (entrées SPF/DKIM/DMARC invalides, incomplétes ou manquantes),
+- Vulnérabilités affectant des utilisateurs utilisant des navigateurs non à jour. (inférieurs à 2 versions stables aprés la derniére version stable),
+- Vulnérabilités nécessitant un comportement une interaction peu probable avec l'utilisateur.
+
 **> Crédits :** [Merci à toutes les personnes](/abuse/thanks/) ayant fait des signalements responsables.
 
 ## [EN] Vulnerability reporting policy 
@@ -51,5 +60,14 @@ If you have found (or suspect the existence of) a privacy or security vulnerabil
 - `*.assurance-maladie.fr`,
 -  `*.cnamts.fr`
 - and any other service related to French Assurance Maladie organization.
+
+**> Seront considérés comme étant hors périmètre :** 
+- Clickjacking on pages with no sensitive actions or without scenario,
+- Cross-Site Request Forgery (CSRF) on unauthenticated forms or forms with no sensitive actions,
+- Comma Separated Values (CSV) injection without demonstrating a vulnerability,
+- Content spoofing and text injection issues without showing an attack vector/without being able to modify HTML/CSS,
+- Missing email best practices (Invalid, incomplete or missing SPF/DKIM/DMARC records, etc.),
+- Vulnerabilities only affecting users of outdated or unpatched browsers (Less than 2 stable versions behind the latest released stable version),
+- Issues that require unlikely user interaction.
 
 **> Acknowledgments:** [thank to all reporters](/abuse/thanks/) for their responsible disclosures.
