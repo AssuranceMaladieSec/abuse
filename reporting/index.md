@@ -61,7 +61,7 @@ If you have found (or suspect the existence of) a privacy or security vulnerabil
 -  `*.cnamts.fr`
 - and any other service related to French Assurance Maladie organization.
 
-**> Seront considérés comme étant hors périmètre :** 
+**> The following will be considered out of scope :** 
 - Clickjacking on pages with no sensitive actions or without scenario,
 - Cross-Site Request Forgery (CSRF) on unauthenticated forms or forms with no sensitive actions,
 - Comma Separated Values (CSV) injection without demonstrating a vulnerability,
