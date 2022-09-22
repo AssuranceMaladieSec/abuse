@@ -5,6 +5,7 @@ title: "Merci - Thanks"
 ## [FR] Merci
 L'Assurance Maladie tient à remercier ici toutes les personnes nous ayant fait des signalements responsables :
 
+- 09/2022 : [Peter Potrowl](https://sitemai.eu), une vulnérabilité.
 - 09/2021 : [Morgan Schmiedt](https://www.ewatchers.org), une vulnérabilité.
 - 09/2021 : [Chau Minh Khanh](https://www.linkedin.com/in/khanhchauminh), une vulnérabilité.
 - 09/2021 : [Stan](https://twitter.com/spooky360/), une vulnérabilité.
