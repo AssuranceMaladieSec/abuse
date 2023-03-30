@@ -14,7 +14,7 @@ Voici la fiche d'information du CERT Social :
 - Lettre de mission : [RFC2350](https://github.com/AssuranceMaladieSec/abuse/blob/master/CERTSocial-RFC2350.pdf)
 - Empreinte de clé PGP : 7EC6 D0BE 7288 277C DF2A 42E2 B495 94E2 C5EB E134
 - Serveur de clé principal : https://pgp.circl.lu
-- Numéro de téléphone : +33 (0)2 52 09 20 06 (de 8h à 18h)
+- Numéro de téléphone : +33 (0)2 52 09 20 06 (de 9h à 18h)
 
 L'adresse abuse@assurance-maladie.fr continuera d'être consultée à des fins de continuité de service pour le signalement de problèmes de sécurité lié uniquement à l'Assurance Maladie et pour les relations avec les hébergeurs.
 
@@ -65,7 +65,7 @@ Here is a quick résumé of the CERT Social
 - Policy agreement : [RFC2350](https://github.com/AssuranceMaladieSec/abuse/blob/master/CERTSocial-RFC2350.pdf)
 - PGP fingerprint : 7EC6 D0BE 7288 277C DF2A 42E2 B495 94E2 C5EB E134
 - Main key server : https://pgp.circl.lu
-- Phone number : +33 (0)2 52 09 20 06 (de 8h à 18h)
+- Phone number : +33 (0)2 52 09 20 06 (de 9h à 18h)
 
 The e-mail address abuse@assurance-maladie.fr will continue to be monitored for security incident and vulnerability disclosure and for communications with the hosters and registrars.
 
