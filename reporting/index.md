@@ -11,8 +11,8 @@ L'Assurance Maladie et les autres branches de la Sécurité Sociale incluant Cai
 Voici la fiche d'information du CERT Social :
 - Nom : CERT Social
 - Adresse : cert@cert-social.fr
-- Lettre de mission : [RFC2350](https://assurancemaladiesec.github.io/abuse/CERTSocial-RFC2350.pdf)
-- Empreinte de clé PGP : 7EC6 D0BE 7288 277C DF2A 42E2 B495 94E2 C5EB E134 (Short ID : [0xB49594E2C5EBE134](https://assurancemaladiesec.github.io/abuse/certsocial-gpg-public-key.txt))
+- Lettre de mission : [RFC2350](https://assurance-maladie.ameli.fr/sites/default/files/cert-social-frc2350-v2_assurance-maladie.pdf)
+- Empreinte de clé PGP : 7EC6 D0BE 7288 277C DF2A 42E2 B495 94E2 C5EB E134 (ID : [0xB49594E2C5EBE134](https://assurancemaladiesec.github.io/abuse/certsocial-gpg-public-key.txt))
 - Serveur de clé principal : https://pgp.circl.lu
 - Numéro de téléphone : +33 (0)2 52 09 20 06 (de 9h à 18h)
 
@@ -52,7 +52,7 @@ Si vous trouvez (ou suspectez d'avoir découvert) une vulnérabilité sécurité
 
 **> Crédits :** [Merci à toutes les personnes](/abuse/thanks/) ayant fait des signalements responsables.
 
-## [FR] Préambule
+## [EN] Read first
 
 This site is managed by the security team of Assurance Maladie and its CERT.
 "Assurance Maladie" is the French Public national healthcare insurance for the entire french population. It is related to the French State by the authority of the Ministry of Health and is a part of the [Social Security](https://www.securite-sociale.fr/accueil) organisation.
@@ -62,8 +62,8 @@ The "Assurance Maladie" and the other branches of the Social Security have mutua
 Here is a quick résumé of the CERT Social
 - Name : CERT Social
 - E-mail address : cert@cert-social.fr
-- Policy agreement : [RFC2350](https://assurancemaladiesec.github.io/abuse/CERTSocial-RFC2350.pdf)
-- PGP fingerprint : 7EC6 D0BE 7288 277C DF2A 42E2 B495 94E2 C5EB E134 (Short ID : [0xB49594E2C5EBE134](https://assurancemaladiesec.github.io/abuse/certsocial-gpg-public-key.txt))
+- Policy agreement : [RFC2350](https://assurance-maladie.ameli.fr/sites/default/files/cert-social-frc2350-v2_assurance-maladie.pdf)
+- PGP fingerprint : 7EC6 D0BE 7288 277C DF2A 42E2 B495 94E2 C5EB E134 (ID : [0xB49594E2C5EBE134](https://assurancemaladiesec.github.io/abuse/certsocial-gpg-public-key.txt))
 - Main key server : https://pgp.circl.lu
 - Phone number : +33 (0)2 52 09 20 06 (de 9h à 18h)
 
