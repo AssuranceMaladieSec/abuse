@@ -4,7 +4,7 @@ title: "Merci - Thanks"
 
 ## [FR] Merci
 L'Assurance Maladie tient à remercier ici toutes les personnes nous ayant fait des signalements responsables :
-
+- 11/2024 : [Raphaël Guingois](https://www.linkedin.com/in/rphl-gngs), une vulnérabilité
 - 09/2022 : [Peter Potrowl](https://sitemai.eu), une vulnérabilité.
 - 09/2021 : [Morgan Schmiedt](https://www.ewatchers.org), une vulnérabilité.
 - 09/2021 : [Chau Minh Khanh](https://www.linkedin.com/in/khanhchauminh), une vulnérabilité.
@@ -20,6 +20,7 @@ L'Assurance Maladie tient à remercier ici toutes les personnes nous ayant fait 
 ## [EN] Thanks
 Assurance Maladie wants to thank here all the reporters for their responsible disclosure:
 
+- 11/2024 : [Raphaël Guingois](https://www.linkedin.com/in/rphl-gngs), one vulnerability.
 - 09/2022 : [Peter Potrowl](https://sitemai.eu), one vulnerability.
 - 09/2021 : [Morgan Schmiedt](https://www.ewatchers.org), one vulnerability.
 - 09/2021 : [Chau Minh Khanh](https://www.linkedin.com/in/khanhchauminh), one vulnerability.
