@@ -36,7 +36,12 @@ Si vous trouvez (ou suspectez d'avoir découvert) une vulnérabilité sur une ap
   - étapes pour reproduire la vulnérabilité ou indications sur le service indésirable exposé avec l'adresse et le port
   - impact estimé
  
-L'Assurance Maladie gère un programme de bug bounty sur le périmètre des services du Compte Ameli (assure.ameli.fr) + Compte Mobile (fr.cnamts.it.activity) et Amelipro (espacepro.ameli.fr) à travers la plateforme YesWeHack. Si vous êtes participant à ce bug bounty, veuillez remonter vos signalements à travers celle-ci.
+L'Assurance Maladie gère un programme de bug bounty sur le périmètre :
+- "Compte Ameli" web sur assure.ameli.fr et aussi ameliconnect.ameli.fr
+- "Compte Ameli" sur l'application services.ameli.moncompte.mobi, sur le Google Play Store (fr.cnamts.it.activity) et sur l'Apple Store (compte-ameli)
+- "AmeliPRO" sur espacepro.ameli.fr, authps-espacepro.ameli.fr, authcps-espacepro.ameli.fr, paiements2.ameli.fr, convention2.ameli.fr, conventionpharmaciens.ameli.fr, conventionauxiliaires.ameli.fr, installation-medecin.ameli.fr, installation-kine.ameli.fr, installation-idel.ameli.fr
+
+ Sur la plateforme YesWeHack. Si vous êtes participant à ce bug bounty, veuillez remonter vos signalements à travers celle-ci.
 
 **> Divulgation responsable :** 
 - Si des données personnelles d'assurés ou des informations mettant en danger immédiat la continuité d'un de nos services doivent être mentionnées dans votre rapport, merci de bien chiffrer vos informations avec notre [clé GnuPG](https://pgp.circl.lu/pks/lookup?op=get&search=0x43f6ec3541ef887e). Si vous ne possédez pas de moyen de chiffrer votre message en PGP, vous pouvez prendre contact avec nous sur notre adresse de contact ou par téléphone pour convenir d'un moyen de communication sûr. Nous reviendrons rapidement vers vous. 
@@ -97,7 +102,12 @@ If you have found (or suspect the existence of) a security vulnerability on one 
   - steps to reproduce or informations on the exposed service
   - impacts estimated
 
-The "Assurance Maladie" manages a bug bounty program on the perimeter of the Compte Ameli (assure.ameli.fr), the mobile application of Ameli (fr.cnamts.it.activity) and the service for healthcare professionnal Amelipro (espacepro.ameli.fr) through the Yes We Hack platform. If you're a part of this bug bounty, please send your vulnerability disclosure through it.
+The "Assurance Maladie" manages a bug bounty program on the perimeter :
+- "Compte Ameli" portal on assure.ameli.fr and also ameliconnect.ameli.fr
+- "Compte Ameli" mobile app on services.ameli.moncompte.mobi, on the Google Play Store (fr.cnamts.it.activity) and on the Apple Store (compte-ameli)
+- "AmeliPRO" on espacepro.ameli.fr, authps-espacepro.ameli.fr, authcps-espacepro.ameli.fr, paiements2.ameli.fr, convention2.ameli.fr, conventionpharmaciens.ameli.fr, conventionauxiliaires.ameli.fr, installation-medecin.ameli.fr, installation-kine.ameli.fr, installation-idel.ameli.fr
+
+through the Yes We Hack platform. If you're a part of this bug bounty, please send your vulnerability disclosure through it.
 
 **> Responsible disclosure:** 
 - If personal data of insured people or informations putting in immediate danger the well-being of one of our services must be mentionned in your report, please, be sure of encrypting these informations with our [GPG key](https://pgp.circl.lu/pks/lookup?op=get&search=0x43f6ec3541ef887e). If you do not have a way of doing that, you can get in touch with us with our contact address or by our phone land line to set a secure way of transmission. We will come back to you very soon.
