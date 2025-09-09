@@ -30,18 +30,19 @@ L'adresse histortique abuse@assurance-maladie.fr ne sera plus consultée pour le
 
 **> Comment signaler une vulnérabilité :** 
 
-Si vous trouvez (ou suspectez d'avoir découvert) une vulnérabilité sur une application, un site ou un service de l'Assurance Maladie ou l'exposition d'un service indésirable sur le réseau de l'Assurance Maladie, merci de suivre les instructions ci-dessous :
+Si vous trouvez (ou suspectez d'avoir découvert) une vulnérabilité sur une application, un site ou un service de l'Assurance Maladie ou l'exposition d'un service indésirable sur le réseau de l'Assurance Maladie, merci de suivre les instructions ci-dessous 
+vers l'adresse csirt@assurance-maladie.fr :
 - envoyer les détails suivants :
   - site web ou service impacté
   - étapes pour reproduire la vulnérabilité ou indications sur le service indésirable exposé avec l'adresse et le port
   - impact estimé
  
-L'Assurance Maladie gère un programme de bug bounty sur le périmètre :
+L'Assurance Maladie gère un programme de bug bounty depuis la plateforme YesWeHack sur le périmètre :
 - "Compte Ameli" web sur assure.ameli.fr et aussi ameliconnect.ameli.fr
 - "Compte Ameli" sur l'application services.ameli.moncompte.mobi, sur le Google Play Store (fr.cnamts.it.activity) et sur l'Apple Store (compte-ameli)
 - "AmeliPRO" sur espacepro.ameli.fr, authps-espacepro.ameli.fr, authcps-espacepro.ameli.fr, paiements2.ameli.fr, convention2.ameli.fr, conventionpharmaciens.ameli.fr, conventionauxiliaires.ameli.fr, installation-medecin.ameli.fr, installation-kine.ameli.fr, installation-idel.ameli.fr
 
- Sur la plateforme YesWeHack. Si vous êtes participant à ce bug bounty, veuillez remonter vos signalements à travers celle-ci.
+Si vous êtes participant à ce bug bounty, veuillez remonter vos signalements à travers celle-ci.
 
 **> Divulgation responsable :** 
 - Si des données personnelles d'assurés ou des informations mettant en danger immédiat la continuité d'un de nos services doivent être mentionnées dans votre rapport, merci de bien chiffrer vos informations avec notre [clé GnuPG](https://pgp.circl.lu/pks/lookup?op=get&search=0x43f6ec3541ef887e). Si vous ne possédez pas de moyen de chiffrer votre message en PGP, vous pouvez prendre contact avec nous sur notre adresse de contact ou par téléphone pour convenir d'un moyen de communication sûr. Nous reviendrons rapidement vers vous. 
@@ -95,19 +96,19 @@ The e-mail address abuse@assurance-maladie.fr will cease to be monitored for sec
 
 **> How-to report:**
 
-If you have found (or suspect the existence of) a security vulnerability on one of our site, application or services or an insecure exposition on our network follow the steps below: 
+If you have found (or suspect the existence of) a security vulnerability on one of our site, application or services or an insecure exposition on our network follow the steps below to the address csirt@assurance-maladie.fr : 
 
 - send the following details :
   - impacted website/service
   - steps to reproduce or informations on the exposed service
   - impacts estimated
 
-The "Assurance Maladie" manages a bug bounty program on the perimeter :
+The "Assurance Maladie" manages a bug bounty program through the Yes We Hack platform on the following perimeter :
 - "Compte Ameli" portal on assure.ameli.fr and also ameliconnect.ameli.fr
 - "Compte Ameli" mobile app on services.ameli.moncompte.mobi, on the Google Play Store (fr.cnamts.it.activity) and on the Apple Store (compte-ameli)
 - "AmeliPRO" on espacepro.ameli.fr, authps-espacepro.ameli.fr, authcps-espacepro.ameli.fr, paiements2.ameli.fr, convention2.ameli.fr, conventionpharmaciens.ameli.fr, conventionauxiliaires.ameli.fr, installation-medecin.ameli.fr, installation-kine.ameli.fr, installation-idel.ameli.fr
 
-through the Yes We Hack platform. If you're a part of this bug bounty, please send your vulnerability disclosure through it.
+If you're a part of this bug bounty, please send your vulnerability disclosure through it.
 
 **> Responsible disclosure:** 
 - If personal data of insured people or informations putting in immediate danger the well-being of one of our services must be mentionned in your report, please, be sure of encrypting these informations with our [GPG key](https://pgp.circl.lu/pks/lookup?op=get&search=0x43f6ec3541ef887e). If you do not have a way of doing that, you can get in touch with us with our contact address or by our phone land line to set a secure way of transmission. We will come back to you very soon.
